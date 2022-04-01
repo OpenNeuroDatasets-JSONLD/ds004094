@@ -7,11 +7,16 @@ The Tesser study was designed to examine how temporal statistical learning affec
 Participants were exposed to sequences of objects that followed a temporal community structure. They then completed three tasks that tested how temporal statistical learning affected inductive inference about object properties, event segmentation, and perceived object similarity.
 
 Task phases:
-* learn - Initial exposure to structured object sequences that were determined based on the temporal community structure.
-* struct - During fMRI scanning, further viewing of structured object sequences, with interleaved scrambled object sequences.
-* induct - Outside the scanner, a test of inductive inference about object properties.
-* parse - Viewing of object sequences with button presses to indicate perceived event boundaries.
-* group - Placement of objects on a grid based on subjective non-perceptual similarity.
+
+learn - Initial exposure to structured object sequences that were determined based on the temporal community structure.
+
+struct - During fMRI scanning, further viewing of structured object sequences, with interleaved scrambled object sequences.
+
+induct - Outside the scanner, a test of inductive inference about object properties.
+
+parse - Viewing of object sequences with button presses to indicate perceived event boundaries.
+
+group - Placement of objects on a grid based on subjective non-perceptual similarity.
 
 ## Reference
 
