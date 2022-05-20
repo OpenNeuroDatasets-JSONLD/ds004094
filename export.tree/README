@@ -1,0 +1,18 @@
+# Tesser
+
+The Tesser study was designed to examine how temporal statistical learning affects reasoning about non-temporal features.
+
+## Experiment
+
+Participants were exposed to sequences of objects that followed a temporal community structure. They then completed three tasks that tested how temporal statistical learning affected inductive inference about object properties, event segmentation, and perceived object similarity.
+
+Task phases:
+* learn - Initial exposure to structured object sequences that were determined based on the temporal community structure.
+* struct - During fMRI scanning, further viewing of structured object sequences, with interleaved scrambled object sequences.
+* induct - Outside the scanner, a test of inductive inference about object properties.
+* parse - Viewing of object sequences with button presses to indicate perceived event boundaries.
+* group - Placement of objects on a grid based on subjective non-perceptual similarity.
+
+## Reference
+
+Representations of temporal community structure in hippocampus and precuneus predict inductive reasoning decisions. Athula Pudhiyidath*, Neal W Morton*, Rodrigo Viveros Duran, Anna C. Schapiro, Ida Momennejad, Demitrius M. Hinojosa-Rowland, Robert J. Molitor, Alison R. Preston. bioRxiv 2021.10.12.462707; doi: https://doi.org/10.1101/2021.10.12.462707.
